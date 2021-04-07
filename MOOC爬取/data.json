@@ -1,0 +1,4132 @@
+[
+  {
+    "url": "https://www.icourse163.org/course/ZJU-200001",
+    "name": "C语言程序设计进阶",
+    "teacherName": "翁恺",
+    "enrollCount": 52017,
+    "schoolName": "浙江大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-1001871002",
+    "name": "Python云端系统开发入门",
+    "teacherName": "嵩天",
+    "enrollCount": 86302,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-1001872001",
+    "name": "Python机器学习应用",
+    "teacherName": "礼欣",
+    "enrollCount": 134209,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZJU-1001542001",
+    "name": "面向对象程序设计——Java语言",
+    "teacherName": "翁恺",
+    "enrollCount": 18648,
+    "schoolName": "浙江大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JLU-1002058028",
+    "name": "C语言程序设计",
+    "teacherName": "张玉春",
+    "enrollCount": 27776,
+    "schoolName": "吉林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1002085015",
+    "name": "可视化程序设计技术及应用",
+    "teacherName": "张长胜",
+    "enrollCount": 3800,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-268001",
+    "name": "Python语言程序设计",
+    "teacherName": "嵩天",
+    "enrollCount": 135326,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1205790811",
+    "name": "计算机操作系统",
+    "teacherName": "蒲晓蓉",
+    "enrollCount": 433,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JLU-1001540001",
+    "name": "计算机网络技术",
+    "teacherName": "李晓峰",
+    "enrollCount": 1454,
+    "schoolName": "吉林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/GLIET-1205728807",
+    "name": "数据结构与算法",
+    "teacherName": "周娅",
+    "enrollCount": 158,
+    "schoolName": "桂林电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1205696805",
+    "name": "网页设计基础",
+    "teacherName": "赵慧周",
+    "enrollCount": 1033,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FUDAN-1205806833",
+    "name": "商务数据分析",
+    "teacherName": "赵卫东",
+    "enrollCount": 980,
+    "schoolName": "复旦大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/RUC-1001965017",
+    "name": "数据库系统概论（新技术篇）",
+    "teacherName": "王珊",
+    "enrollCount": 1789,
+    "schoolName": "中国人民大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/TONGJI-47017",
+    "name": "大学计算机基础",
+    "teacherName": "杨志强",
+    "enrollCount": 651,
+    "schoolName": "同济大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1003409001",
+    "name": "操作系统原理",
+    "teacherName": "田丽华",
+    "enrollCount": 556,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWSUAF-1003738001",
+    "name": "大学计算机",
+    "teacherName": "孙健敏",
+    "enrollCount": 1145,
+    "schoolName": "西北农林科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUAA-1449777166",
+    "name": "算法设计与分析",
+    "teacherName": "童咏昕",
+    "enrollCount": 531,
+    "schoolName": "北京航空航天大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JLU-62001",
+    "name": "高级语言程序设计",
+    "teacherName": "张长海",
+    "enrollCount": 363,
+    "schoolName": "吉林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1002188003",
+    "name": "人工智能原理",
+    "teacherName": "王文敏",
+    "enrollCount": 1437,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUST-1001907003",
+    "name": "软件测试与质量",
+    "teacherName": "武剑洁",
+    "enrollCount": 1149,
+    "schoolName": "华中科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1003361041",
+    "name": "网络与市场中的计算思维",
+    "teacherName": "李晓明",
+    "enrollCount": 356,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZJU-1003377027",
+    "name": "人工智能：模型与算法",
+    "teacherName": "吴飞",
+    "enrollCount": 2677,
+    "schoolName": "浙江大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-1001871001",
+    "name": "Python科学计算三维可视化",
+    "teacherName": "黄天羽",
+    "enrollCount": 586,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1003779006",
+    "name": "集合论与图论（上）",
+    "teacherName": "姜守旭",
+    "enrollCount": 1064,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1002534001",
+    "name": "数据结构与算法",
+    "teacherName": "张铭",
+    "enrollCount": 1045,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZUCC-1205776807",
+    "name": "App Inventor-零基础Android移动应用开发",
+    "teacherName": "吴明晖",
+    "enrollCount": 743,
+    "schoolName": "浙大城市学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-46004",
+    "name": "C语言程序设计(下)",
+    "teacherName": "李凤霞",
+    "enrollCount": 1908,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZUCC-1206146808",
+    "name": "深度学习应用开发-TensorFlow实践",
+    "teacherName": "吴明晖",
+    "enrollCount": 994,
+    "schoolName": "浙大城市学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XTU-1003469015",
+    "name": "计算思维—神秘的算法（算法设计与分析）",
+    "teacherName": "邹娟",
+    "enrollCount": 678,
+    "schoolName": "湘潭大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FZU-1002765004",
+    "name": "网络空间安全概论",
+    "teacherName": "郭文忠",
+    "enrollCount": 1596,
+    "schoolName": "福州大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1002047009",
+    "name": "汇编语言程序设计",
+    "teacherName": "邢建川",
+    "enrollCount": 2050,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/sues-1002251007",
+    "name": "计算机导论",
+    "teacherName": "游晓明",
+    "enrollCount": 577,
+    "schoolName": "上海工程技术大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1205704802",
+    "name": "人工智能导论——面向人文社科专业",
+    "teacherName": "于东",
+    "enrollCount": 308,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZJUT-1002694018",
+    "name": "人工智能导论",
+    "teacherName": "王万良",
+    "enrollCount": 4374,
+    "schoolName": "浙江工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/GLIET-1001663006",
+    "name": "计算思维的结构",
+    "teacherName": "董荣胜",
+    "enrollCount": 509,
+    "schoolName": "桂林电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FAFU-1002081025",
+    "name": "大学信息技术基础",
+    "teacherName": "陈琼",
+    "enrollCount": 1228,
+    "schoolName": "福建农林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1002127001",
+    "name": "大学计算机--Python算法实践",
+    "teacherName": "李金双",
+    "enrollCount": 263,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1003043002",
+    "name": "软件工程基础",
+    "teacherName": "蓝天",
+    "enrollCount": 759,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1003039003",
+    "name": "计算机网络系统",
+    "teacherName": "傅翀",
+    "enrollCount": 872,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SDU-1001981020",
+    "name": "大学计算机实验",
+    "teacherName": "郝兴伟",
+    "enrollCount": 258,
+    "schoolName": "山东大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/TONGJI-1001543001",
+    "name": "VisualBasic6.0程序设计",
+    "teacherName": "龚沛曾",
+    "enrollCount": 711,
+    "schoolName": "同济大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WZU-1205809832",
+    "name": "软件定义网络技术 Software Defined Networking，SDN",
+    "teacherName": "黄辉",
+    "enrollCount": 381,
+    "schoolName": "温州大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HXU-1002731010",
+    "name": "大学计算机基础",
+    "teacherName": "赵柱",
+    "enrollCount": 2321,
+    "schoolName": "河西学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1001765003",
+    "name": "计算机控制系统",
+    "teacherName": "关守平",
+    "enrollCount": 1180,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BFU-1003382003",
+    "name": "Web前端开发",
+    "teacherName": "孙俏",
+    "enrollCount": 6488,
+    "schoolName": "北京林业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWU-298002",
+    "name": "数据结构",
+    "teacherName": "耿国华",
+    "enrollCount": 1660,
+    "schoolName": "西北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FMMU-396003",
+    "name": "大学计算机——医学计算基础",
+    "teacherName": "卢虹冰",
+    "enrollCount": 1474,
+    "schoolName": "第四军医大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CAU-1002947001",
+    "name": "Java语言程序设计",
+    "teacherName": "阚道宏",
+    "enrollCount": 567,
+    "schoolName": "中国农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CAU-432001",
+    "name": "C++语言程序设计（下）——从C到C++",
+    "teacherName": "阚道宏",
+    "enrollCount": 2503,
+    "schoolName": "中国农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CAU-368007",
+    "name": "C++语言程序设计（上）",
+    "teacherName": "阚道宏",
+    "enrollCount": 1582,
+    "schoolName": "中国农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1001625001",
+    "name": "计算机系统基础(一)：程序的表示、转换与链接",
+    "teacherName": "袁春风",
+    "enrollCount": 2716,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1001964032",
+    "name": "计算机系统基础（二）：程序的执行和存储访问",
+    "teacherName": "袁春风",
+    "enrollCount": 879,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1002532004",
+    "name": "计算机系统基础(三)：异常、中断和输入/输出",
+    "teacherName": "袁春风",
+    "enrollCount": 514,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1001941004",
+    "name": "Java程序设计",
+    "teacherName": "唐大仕",
+    "enrollCount": 17801,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1001663016",
+    "name": "c#程序设计",
+    "teacherName": "唐大仕",
+    "enrollCount": 5065,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1003643002",
+    "name": "服务计算与服务生态系统",
+    "teacherName": "贝佳",
+    "enrollCount": 280,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/RUC-1001655006",
+    "name": "数据库系统概论（高级篇）",
+    "teacherName": "王珊",
+    "enrollCount": 3988,
+    "schoolName": "中国人民大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HDU-1002598057",
+    "name": "计算机网络自学笔记",
+    "teacherName": "徐建",
+    "enrollCount": 640,
+    "schoolName": "杭州电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-17003",
+    "name": "大学计算机基础",
+    "teacherName": "周海芳",
+    "enrollCount": 4636,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-1003101005",
+    "name": "编译原理",
+    "teacherName": "王挺",
+    "enrollCount": 3616,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SDU-100001",
+    "name": "大学计算机--计算思维的视角",
+    "teacherName": "郝兴伟",
+    "enrollCount": 586,
+    "schoolName": "山东大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WHUT-1001862005",
+    "name": "C编程方法学",
+    "teacherName": "李民",
+    "enrollCount": 2727,
+    "schoolName": "武汉理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-154005",
+    "name": "计算机网络",
+    "teacherName": "李全龙",
+    "enrollCount": 9276,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJUST-1001755037",
+    "name": "计算机网络基础及应用",
+    "teacherName": "丁晟春",
+    "enrollCount": 2102,
+    "schoolName": "南京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/TONGJI-1002215007",
+    "name": "多媒体技术与应用",
+    "teacherName": "李湘梅",
+    "enrollCount": 2167,
+    "schoolName": "同济大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1001647001",
+    "name": "微机原理与接口技术",
+    "teacherName": "吴宁",
+    "enrollCount": 3459,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1205800806",
+    "name": "算法设计与分析",
+    "teacherName": "张德富",
+    "enrollCount": 1196,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUST-1205809816",
+    "name": "计算机硬件系统设计",
+    "teacherName": "谭志虎",
+    "enrollCount": 3161,
+    "schoolName": "华中科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/KMUST-1002355002",
+    "name": "C君带你玩编程",
+    "teacherName": "方娇莉",
+    "enrollCount": 225,
+    "schoolName": "昆明理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HRBEU-1002014002",
+    "name": "物联网工程导论",
+    "teacherName": "刘海波",
+    "enrollCount": 2077,
+    "schoolName": "哈尔滨工程大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUPT-1003557005",
+    "name": "软件项目管理",
+    "teacherName": "韩万江",
+    "enrollCount": 1414,
+    "schoolName": "北京邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-359002",
+    "name": "计算机原理",
+    "teacherName": "唐玉华",
+    "enrollCount": 1714,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HZAU-1002731009",
+    "name": "C++语言程序设计",
+    "teacherName": "姚雅鹃",
+    "enrollCount": 1179,
+    "schoolName": "华中农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1001571005",
+    "name": "用Python玩转数据",
+    "teacherName": "张莉",
+    "enrollCount": 5770,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUC-1450317378",
+    "name": "游戏引擎原理及应用",
+    "teacherName": "韩红雷",
+    "enrollCount": 1770,
+    "schoolName": "中国传媒大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWPU-494001",
+    "name": "C++程序设计",
+    "teacherName": "魏英",
+    "enrollCount": 2740,
+    "schoolName": "西北工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1002556003",
+    "name": "信息安全",
+    "teacherName": "曾吉文",
+    "enrollCount": 864,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1001771003",
+    "name": "C程序设计基础",
+    "teacherName": "黄洪艺",
+    "enrollCount": 2482,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECNU-1003428005",
+    "name": "嵌入式系统设计",
+    "teacherName": "郭建",
+    "enrollCount": 426,
+    "schoolName": "华东师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/TONGJI-370002",
+    "name": "VisualBasic.NET程序设计入门",
+    "teacherName": "龚沛曾",
+    "enrollCount": 519,
+    "schoolName": "同济大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SJTU-1003381021",
+    "name": "数字图像处理",
+    "teacherName": "顾力栩",
+    "enrollCount": 319,
+    "schoolName": "上海交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/DUT-1003039004",
+    "name": "FPGA设计与应用",
+    "teacherName": "王洁",
+    "enrollCount": 438,
+    "schoolName": "大连理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUPT-1003561002",
+    "name": "程序设计综合实验",
+    "teacherName": "刘瑞芳",
+    "enrollCount": 710,
+    "schoolName": "北京邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1002123005",
+    "name": "高级语言程序设计",
+    "teacherName": "高克宁",
+    "enrollCount": 1489,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BFU-1003381003",
+    "name": "数据库原理与应用",
+    "teacherName": "陈志泊",
+    "enrollCount": 2363,
+    "schoolName": "北京林业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWPU-1001966032",
+    "name": "计算机通信网络",
+    "teacherName": "卢选民",
+    "enrollCount": 358,
+    "schoolName": "西北工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1002843011",
+    "name": "C#程序设计",
+    "teacherName": "崔舒宁",
+    "enrollCount": 1598,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1001812013",
+    "name": "软件工程",
+    "teacherName": "张爽",
+    "enrollCount": 1041,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/DUT-1001938002",
+    "name": "大学计算机",
+    "teacherName": "朱鸣华",
+    "enrollCount": 1468,
+    "schoolName": "大连理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-46016",
+    "name": "大学计算机",
+    "teacherName": "吴宁",
+    "enrollCount": 1811,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1002080018",
+    "name": "微机原理与接口技术",
+    "teacherName": "戴胜华",
+    "enrollCount": 2568,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1002249011",
+    "name": "计算机组成原理",
+    "teacherName": "姜琳颖",
+    "enrollCount": 683,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUST-1001936007",
+    "name": "VB.NET程序设计",
+    "teacherName": "张晓芳",
+    "enrollCount": 518,
+    "schoolName": "华中科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SJTU-1003379015",
+    "name": "信息安全数学基础",
+    "teacherName": "陈恭亮",
+    "enrollCount": 731,
+    "schoolName": "上海交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WHUT-1002576003",
+    "name": "离散结构",
+    "teacherName": "袁景凌",
+    "enrollCount": 956,
+    "schoolName": "武汉理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUST-1001907004",
+    "name": "数据结构",
+    "teacherName": "李国徽",
+    "enrollCount": 4447,
+    "schoolName": "华中科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1003046001",
+    "name": "现代密码学",
+    "teacherName": "聂旭云",
+    "enrollCount": 1102,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FJNU-1003147002",
+    "name": "数字图像处理",
+    "teacherName": "张先增",
+    "enrollCount": 436,
+    "schoolName": "福建师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUIT-1002260004",
+    "name": "Office高级应用",
+    "teacherName": "张伟利",
+    "enrollCount": 7208,
+    "schoolName": "成都信息工程大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1002268006",
+    "name": "离散数学",
+    "teacherName": "王丽杰",
+    "enrollCount": 4897,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJAU-1001752039",
+    "name": "计算机网络",
+    "teacherName": "钱燕",
+    "enrollCount": 3586,
+    "schoolName": "南京农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1002125002",
+    "name": "计算机硬件技术基础",
+    "teacherName": "柳秀梅",
+    "enrollCount": 987,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZJU-1001541001",
+    "name": "零基础学Java语言",
+    "teacherName": "翁恺",
+    "enrollCount": 25026,
+    "schoolName": "浙江大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZJU-199001",
+    "name": "程序设计入门——C语言",
+    "teacherName": "翁恺",
+    "enrollCount": 30432,
+    "schoolName": "浙江大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECNU-1002842004",
+    "name": "Java核心技术",
+    "teacherName": "陈良育",
+    "enrollCount": 2228,
+    "schoolName": "华东师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECNU-1003718005",
+    "name": "Java核心技术(进阶)",
+    "teacherName": "陈良育",
+    "enrollCount": 1543,
+    "schoolName": "华东师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PAEU-1001660013",
+    "name": "数据结构",
+    "teacherName": "陈卫卫",
+    "enrollCount": 1525,
+    "schoolName": "中国人民解放军陆军工程大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SCUT-1002700002",
+    "name": "计算机网络",
+    "teacherName": "袁华",
+    "enrollCount": 2217,
+    "schoolName": "华南理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/TONGJI-1205704804",
+    "name": "C/C++程序设计",
+    "teacherName": "高枚",
+    "enrollCount": 3996,
+    "schoolName": "同济大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1002029030",
+    "name": "程序设计与算法（三）C++面向对象程序设计",
+    "teacherName": "郭炜",
+    "enrollCount": 3134,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1001894005",
+    "name": "程序设计与算法（二）算法基础",
+    "teacherName": "郭炜",
+    "enrollCount": 3134,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1001553023",
+    "name": "程序设计与算法（一）C语言程序设计",
+    "teacherName": "郭炜",
+    "enrollCount": 2784,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/GLIET-1002091005",
+    "name": "计算机科学导论",
+    "teacherName": "董荣胜",
+    "enrollCount": 425,
+    "schoolName": "桂林电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NCU-1205813837",
+    "name": "网站设计与开发",
+    "teacherName": "杨选辉",
+    "enrollCount": 1681,
+    "schoolName": "南昌大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1001527001",
+    "name": "计算机组成原理（下）",
+    "teacherName": "刘宏伟",
+    "enrollCount": 2454,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-309001",
+    "name": "计算机组成原理（上）",
+    "teacherName": "刘宏伟",
+    "enrollCount": 4978,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/DUT-1001948002",
+    "name": "C语言程序设计",
+    "teacherName": "朱鸣华",
+    "enrollCount": 4200,
+    "schoolName": "大连理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XIYOU-1002578005",
+    "name": "数据结构与算法",
+    "teacherName": "王曙燕",
+    "enrollCount": 786,
+    "schoolName": "西安邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WHUT-1003535158",
+    "name": "数字图像处理",
+    "teacherName": "黄朝兵",
+    "enrollCount": 3178,
+    "schoolName": "武汉理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1003679001",
+    "name": "Web编程技术",
+    "teacherName": "谢涛",
+    "enrollCount": 1021,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUC-1450328379",
+    "name": "游戏开发程序设计基础",
+    "teacherName": "韩红雷",
+    "enrollCount": 985,
+    "schoolName": "中国传媒大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1001543002",
+    "name": "计算机组成原理",
+    "teacherName": "纪禄平",
+    "enrollCount": 5683,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1205811805",
+    "name": "Spark编程基础",
+    "teacherName": "林子雨",
+    "enrollCount": 1096,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1002335004",
+    "name": "大数据技术原理与应用",
+    "teacherName": "林子雨",
+    "enrollCount": 5351,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZJU-93001",
+    "name": "数据结构",
+    "teacherName": "陈越",
+    "enrollCount": 45689,
+    "schoolName": "浙江大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1003734012",
+    "name": "数据结构",
+    "teacherName": "李建华",
+    "enrollCount": 325,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1003177002",
+    "name": "软件工程",
+    "teacherName": "孙艳春",
+    "enrollCount": 4817,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1002533009",
+    "name": "面向对象程序设计（C++）",
+    "teacherName": "董晓梅",
+    "enrollCount": 1600,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XIYOU-1003118004",
+    "name": "Python 语言程序设计",
+    "teacherName": "王小银",
+    "enrollCount": 2012,
+    "schoolName": "西安邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1003245001",
+    "name": "操作系统",
+    "teacherName": "翟高寿",
+    "enrollCount": 2996,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JXUFE-1002335005",
+    "name": "乐学软件工程",
+    "teacherName": "狄国强",
+    "enrollCount": 1060,
+    "schoolName": "江西财经大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-1001870002",
+    "name": "Python数据分析与展示",
+    "teacherName": "嵩天",
+    "enrollCount": 69334,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1001616002",
+    "name": "高级语言程序设计（Python）CAP",
+    "teacherName": "车万翔",
+    "enrollCount": 112056,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-1002058035",
+    "name": "零基础学Python语言CAP",
+    "teacherName": "嵩天",
+    "enrollCount": 302892,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WHU-1001539003",
+    "name": "数据结构",
+    "teacherName": "李春葆",
+    "enrollCount": 175737,
+    "schoolName": "武汉大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-1001873001",
+    "name": "Python游戏开发入门",
+    "teacherName": "嵩天",
+    "enrollCount": 121098,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PAEU-1003647009",
+    "name": "数据库原理与应用",
+    "teacherName": "宋金玉",
+    "enrollCount": 2689,
+    "schoolName": "中国人民解放军陆军工程大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HAUST-1001796013",
+    "name": "计算机组成原理",
+    "teacherName": "王辉",
+    "enrollCount": 1082,
+    "schoolName": "河南科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WHU-1002332010",
+    "name": "数字图像处理",
+    "teacherName": "贾永红",
+    "enrollCount": 3271,
+    "schoolName": "武汉大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FAFU-1002763014",
+    "name": "Visual Basic程序设计",
+    "teacherName": "刘必雄",
+    "enrollCount": 1466,
+    "schoolName": "福建农林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-47004",
+    "name": "大学计算机",
+    "teacherName": "李凤霞",
+    "enrollCount": 9055,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-20019",
+    "name": "C语言程序设计(上)",
+    "teacherName": "李凤霞",
+    "enrollCount": 4132,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1002123007",
+    "name": "编译原理",
+    "teacherName": "陈鄞",
+    "enrollCount": 2497,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWPU-493001",
+    "name": "C#程序设计",
+    "teacherName": "刘君瑞",
+    "enrollCount": 1043,
+    "schoolName": "西北工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-46006",
+    "name": "计算机程序设计（C++）",
+    "teacherName": "赵英良",
+    "enrollCount": 2367,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XAUT-1002608025",
+    "name": "C语言程序设计",
+    "teacherName": "张亚玲",
+    "enrollCount": 2020,
+    "schoolName": "西安理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CSU-1002475002",
+    "name": "科学计算与MATLAB语言",
+    "teacherName": "刘卫国",
+    "enrollCount": 11006,
+    "schoolName": "中南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUST-1003159001",
+    "name": "计算机组成原理",
+    "teacherName": "秦磊华",
+    "enrollCount": 15095,
+    "schoolName": "华中科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWPU-236004",
+    "name": "C程序设计",
+    "teacherName": "姜学锋",
+    "enrollCount": 1238,
+    "schoolName": "西北工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUST-1003405007",
+    "name": "操作系统原理",
+    "teacherName": "苏曙光",
+    "enrollCount": 2267,
+    "schoolName": "华中科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BNU-1002842007",
+    "name": "数据库系统原理",
+    "teacherName": "党德鹏",
+    "enrollCount": 3091,
+    "schoolName": "北京师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XIYOU-1003110002",
+    "name": "C语言程序设计",
+    "teacherName": "王春梅",
+    "enrollCount": 1605,
+    "schoolName": "西安邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JXUFE-1003247019",
+    "name": "信息系统分析与设计",
+    "teacherName": "张富国",
+    "enrollCount": 561,
+    "schoolName": "江西财经大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/RUC-488001",
+    "name": "数据库系统概论（基础篇）",
+    "teacherName": "王珊",
+    "enrollCount": 10728,
+    "schoolName": "中国人民大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CSU-1003517003",
+    "name": "计算机程序设计基础",
+    "teacherName": "刘卫国",
+    "enrollCount": 2104,
+    "schoolName": "中南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1003538129",
+    "name": "计算机网络与通信技术",
+    "teacherName": "刘彪",
+    "enrollCount": 2073,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PAEU-1003123003",
+    "name": "网络技术与应用实验",
+    "teacherName": "俞海英",
+    "enrollCount": 3240,
+    "schoolName": "中国人民解放军陆军工程大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1002530017",
+    "name": "离散数学",
+    "teacherName": "刘铎",
+    "enrollCount": 3741,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJUPT-1001639008",
+    "name": "网络技术与应用",
+    "teacherName": "杨庚",
+    "enrollCount": 2739,
+    "schoolName": "南京邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NKU-1205696807",
+    "name": "Python编程基础",
+    "teacherName": "王恺",
+    "enrollCount": 5093,
+    "schoolName": "南开大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1001578001",
+    "name": "数据库系统（下）：管理与技术",
+    "teacherName": "战德臣",
+    "enrollCount": 1335,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/DUT-1205719818",
+    "name": "计算方法",
+    "teacherName": "张宏伟",
+    "enrollCount": 2642,
+    "schoolName": "大连理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUPT-1003564002",
+    "name": "C++程序设计（面向对象进阶）",
+    "teacherName": "崔毅东",
+    "enrollCount": 3742,
+    "schoolName": "北京邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XIYOU-1002854010",
+    "name": "大学计算机基础",
+    "teacherName": "李培",
+    "enrollCount": 6175,
+    "schoolName": "西安邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PAEU-315001",
+    "name": "网络技术与应用",
+    "teacherName": "沈鑫剡",
+    "enrollCount": 13404,
+    "schoolName": "中国人民解放军陆军工程大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1205702808",
+    "name": "数据库与商业智能",
+    "teacherName": "石嘉明",
+    "enrollCount": 396,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1001774006",
+    "name": "程序设计基础（C&C++）",
+    "teacherName": "戴波",
+    "enrollCount": 8772,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1001554030",
+    "name": "数据库系统（中）：建模与设计",
+    "teacherName": "战德臣",
+    "enrollCount": 1587,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-437006",
+    "name": "计算机专业导论",
+    "teacherName": "战德臣",
+    "enrollCount": 897,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XIYOU-1002836009",
+    "name": "编译技术",
+    "teacherName": "王曙燕",
+    "enrollCount": 448,
+    "schoolName": "西安邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-298007",
+    "name": "软件工程专业导论",
+    "teacherName": "徐晓飞",
+    "enrollCount": 704,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1206680838",
+    "name": "计算机算法与程序设计(python)",
+    "teacherName": "戴波",
+    "enrollCount": 2058,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1001516002",
+    "name": "数据库系统（上）：模型与语言",
+    "teacherName": "战德臣",
+    "enrollCount": 3606,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-56001",
+    "name": "程序设计基础",
+    "teacherName": "苏小红",
+    "enrollCount": 1962,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-7001",
+    "name": "大学计算机—计算思维导论",
+    "teacherName": "战德臣",
+    "enrollCount": 3298,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-69005",
+    "name": "C语言程序设计精髓",
+    "teacherName": "苏小红",
+    "enrollCount": 18527,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1002532005",
+    "name": "数据结构与算法",
+    "teacherName": "林劼",
+    "enrollCount": 9491,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FJNU-1002580004",
+    "name": "C语言程序设计",
+    "teacherName": "曾智勇",
+    "enrollCount": 4424,
+    "schoolName": "福建师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FJNU-1002582005",
+    "name": "离散数学",
+    "teacherName": "柯品惠",
+    "enrollCount": 1327,
+    "schoolName": "福建师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FJNU-1003139003",
+    "name": "网络管理与应用",
+    "teacherName": "吴怡",
+    "enrollCount": 2056,
+    "schoolName": "福建师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SUST-1205794810",
+    "name": "C语言程序设计进阶与实践",
+    "teacherName": "王长浩",
+    "enrollCount": 1676,
+    "schoolName": "陕西科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-10001",
+    "name": "大数据算法",
+    "teacherName": "王宏志",
+    "enrollCount": 9956,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/viontech-1003051007",
+    "name": "人工智能产业应用前沿",
+    "teacherName": "林宇",
+    "enrollCount": 12,
+    "schoolName": "文安智能"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1003479006",
+    "name": "Python语言基础与应用",
+    "teacherName": "陈斌",
+    "enrollCount": 399,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1001571004",
+    "name": "计算机操作系统",
+    "teacherName": "骆斌",
+    "enrollCount": 360,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-235006",
+    "name": "计算机系统与网络安全技术",
+    "teacherName": "周世杰",
+    "enrollCount": 67,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FJNU-1002582006",
+    "name": "网络安全与应用",
+    "teacherName": "陈志德",
+    "enrollCount": 31,
+    "schoolName": "福建师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BFU-1003377002",
+    "name": "计算机辅助设计",
+    "teacherName": "漆楚生",
+    "enrollCount": 133,
+    "schoolName": "北京林业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1003781003",
+    "name": "集合论与图论（下）",
+    "teacherName": "姜守旭",
+    "enrollCount": 817,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CAU-45006",
+    "name": "计算机图形学",
+    "teacherName": "赵明",
+    "enrollCount": 222,
+    "schoolName": "中国农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-1001870001",
+    "name": "Python网络爬虫与信息提取",
+    "teacherName": "嵩天",
+    "enrollCount": 4389,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CSU-1001907005",
+    "name": "软件度量及应用",
+    "teacherName": "杨柳",
+    "enrollCount": 154,
+    "schoolName": "中南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1002837013",
+    "name": "软硬件综合设计",
+    "teacherName": "薄钧戈",
+    "enrollCount": 40,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WHU-1205723805",
+    "name": "数字图像处理技巧",
+    "teacherName": "贾永红",
+    "enrollCount": 8123,
+    "schoolName": "武汉大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-1461782176",
+    "name": "数据挖掘",
+    "teacherName": "丁兆云",
+    "enrollCount": 6719,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/TONGJI-371001",
+    "name": "VisualBasic.NET程序设计进阶",
+    "teacherName": "龚沛曾",
+    "enrollCount": 3292,
+    "schoolName": "同济大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1001617006",
+    "name": "大学计算机—计算思维导论CAP",
+    "teacherName": "战德臣",
+    "enrollCount": 13197,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1003664002",
+    "name": "DevOps导论",
+    "teacherName": "荣国平",
+    "enrollCount": 1701,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1002536002",
+    "name": "人工智能实践：Tensorflow笔记",
+    "teacherName": "曹健",
+    "enrollCount": 8684,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1002838006",
+    "name": "算法设计与问题求解",
+    "teacherName": "乔亚男",
+    "enrollCount": 3099,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1002927012",
+    "name": "操作系统",
+    "teacherName": "王大玲",
+    "enrollCount": 5416,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1002608004",
+    "name": "IT项目管理",
+    "teacherName": "吴清锋",
+    "enrollCount": 2326,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/TOUC-1001986002",
+    "name": "android智能手机编程",
+    "teacherName": "王立",
+    "enrollCount": 2851,
+    "schoolName": "国家开放大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZUEL-1001756012",
+    "name": "计算机应用基础",
+    "teacherName": "金大卫",
+    "enrollCount": 12924,
+    "schoolName": "中南财经政法大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1001616012",
+    "name": "程序猿与攻城狮",
+    "teacherName": "刘钦",
+    "enrollCount": 1326,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1003359012",
+    "name": "算法设计与问题求解",
+    "teacherName": "李清勇",
+    "enrollCount": 3551,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-196001",
+    "name": "大学计算机——计算思维之路",
+    "teacherName": "王移芝",
+    "enrollCount": 4087,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1002246017",
+    "name": "基于Java的面向对象编程范式",
+    "teacherName": "刘钦",
+    "enrollCount": 1871,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SZU-1001752002",
+    "name": "多媒体技术及应用",
+    "teacherName": "王志强",
+    "enrollCount": 7841,
+    "schoolName": "深圳大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1003471009",
+    "name": "人工智能与信息社会",
+    "teacherName": "陈斌",
+    "enrollCount": 6235,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1002525004",
+    "name": "离散数学概论",
+    "teacherName": "陈斌",
+    "enrollCount": 9742,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HZAU-1002739008",
+    "name": "数据结构",
+    "teacherName": "陈仲民",
+    "enrollCount": 1367,
+    "schoolName": "华中农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/DUT-1002607070",
+    "name": "嵌入式软件设计",
+    "teacherName": "赖晓晨",
+    "enrollCount": 1120,
+    "schoolName": "大连理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1003757010",
+    "name": "计算机网络与互联网",
+    "teacherName": "李春艳",
+    "enrollCount": 768,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWPU-1002530019",
+    "name": "计算机编码与密码学",
+    "teacherName": "周敏",
+    "enrollCount": 594,
+    "schoolName": "西北工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SUST-1205779814",
+    "name": "版式设计与计算机排版",
+    "teacherName": "李文育",
+    "enrollCount": 1113,
+    "schoolName": "陕西科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HHU-1001755117",
+    "name": "云计算技术与应用",
+    "teacherName": "孙宁",
+    "enrollCount": 4906,
+    "schoolName": "河海大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CAU-23004",
+    "name": "大学计算机基础",
+    "teacherName": "陈雷",
+    "enrollCount": 6346,
+    "schoolName": "中国农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NENU-1001511011",
+    "name": "数据库技术及应用",
+    "teacherName": "李雁翎",
+    "enrollCount": 3394,
+    "schoolName": "东北师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWPU-1003591005",
+    "name": "软件测试",
+    "teacherName": "郑炜",
+    "enrollCount": 3247,
+    "schoolName": "西北工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUCT-1002990004",
+    "name": "大学计算机",
+    "teacherName": "高敬阳",
+    "enrollCount": 4467,
+    "schoolName": "北京化工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1002057028",
+    "name": "大学计算机CAP",
+    "teacherName": "吴宁",
+    "enrollCount": 6717,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1002750011",
+    "name": "软件需求分析与设计",
+    "teacherName": "刘益先",
+    "enrollCount": 1377,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1002745019",
+    "name": "程序设计基础",
+    "teacherName": "李丹程",
+    "enrollCount": 1381,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUG-1003556007",
+    "name": "机器学习",
+    "teacherName": "蒋良孝",
+    "enrollCount": 8613,
+    "schoolName": "中国地质大学（武汉）"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1001691004",
+    "name": "大学计算机——计算思维之路CAP",
+    "teacherName": "王移芝",
+    "enrollCount": 15448,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-1001614002",
+    "name": "大学计算机基础CAP",
+    "teacherName": "周海芳",
+    "enrollCount": 14634,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUG-1001632003",
+    "name": "零基础学C语言",
+    "teacherName": "戴光明",
+    "enrollCount": 26242,
+    "schoolName": "中国地质大学（武汉）"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NCU-1002525013",
+    "name": "计算机组织与结构",
+    "teacherName": "徐苏",
+    "enrollCount": 1002,
+    "schoolName": "南昌大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/DUT-1001850005",
+    "name": "计算机组织与结构",
+    "teacherName": "赖晓晨",
+    "enrollCount": 2284,
+    "schoolName": "大连理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUST-1003636001",
+    "name": "计算机图形学",
+    "teacherName": "万琳",
+    "enrollCount": 4639,
+    "schoolName": "华中科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BFU-1003766012",
+    "name": "MATLAB科学计算与工程应用",
+    "teacherName": "陈来荣",
+    "enrollCount": 11998,
+    "schoolName": "北京林业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1003040002",
+    "name": "Linux操作系统编程",
+    "teacherName": "肖堃",
+    "enrollCount": 14465,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUAA-1002744004",
+    "name": "计算机网络实验",
+    "teacherName": "张力军",
+    "enrollCount": 8237,
+    "schoolName": "北京航空航天大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JLU-1002056024",
+    "name": "微机原理与接口技术",
+    "teacherName": "侯彦利",
+    "enrollCount": 18333,
+    "schoolName": "吉林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PAEU-1003640007",
+    "name": "区块链中的密码学",
+    "teacherName": "徐伟光",
+    "enrollCount": 4937,
+    "schoolName": "中国人民解放军陆军工程大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WHU-1002987005",
+    "name": "嵌入式系统设计",
+    "teacherName": "杨剑锋",
+    "enrollCount": 7561,
+    "schoolName": "武汉大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUPT-1003557006",
+    "name": "Linux开发环境及应用",
+    "teacherName": "蒋砚军",
+    "enrollCount": 7669,
+    "schoolName": "北京邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1001773008",
+    "name": "软件测试",
+    "teacherName": "陈振宇",
+    "enrollCount": 9661,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ISCAS-1002580008",
+    "name": "机器人操作系统入门",
+    "teacherName": "武延军",
+    "enrollCount": 10207,
+    "schoolName": "中科院软件所-重德智能机器人联合研究中心"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1002525003",
+    "name": "算法设计与分析",
+    "teacherName": "汪小林",
+    "enrollCount": 35208,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1002777006",
+    "name": "移动计算及应用开发技术",
+    "teacherName": "朱大勇",
+    "enrollCount": 2493,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CHD-1002012002",
+    "name": "网络视频监控技术",
+    "teacherName": "任帅",
+    "enrollCount": 3592,
+    "schoolName": "长安大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECNU-1003434002",
+    "name": "面向对象分析与设计",
+    "teacherName": "姜宁康",
+    "enrollCount": 6529,
+    "schoolName": "华东师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SJTU-1003457002",
+    "name": "离散数学",
+    "teacherName": "龙环",
+    "enrollCount": 8397,
+    "schoolName": "上海交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1003368009",
+    "name": "Python语言程序设计",
+    "teacherName": "鲁凌云",
+    "enrollCount": 16678,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/OUC-70004",
+    "name": "数据结构",
+    "teacherName": "魏振钢",
+    "enrollCount": 2849,
+    "schoolName": "中国海洋大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-9003",
+    "name": "高级语言程序设计（Python）",
+    "teacherName": "车万翔",
+    "enrollCount": 40144,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1002531008",
+    "name": "操作系统",
+    "teacherName": "李治军",
+    "enrollCount": 16181,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUST-1003393002",
+    "name": "密码学原理",
+    "teacherName": "汤学明",
+    "enrollCount": 3647,
+    "schoolName": "华中科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CAU-1001617003",
+    "name": "大学计算机基础CAP",
+    "teacherName": "陈雷",
+    "enrollCount": 11727,
+    "schoolName": "中国农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-356006",
+    "name": "算法设计与分析入门",
+    "teacherName": "王宏志",
+    "enrollCount": 8698,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1205809805",
+    "name": "计算机组成",
+    "teacherName": "陆俊林",
+    "enrollCount": 10832,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1002529002",
+    "name": "计算概论与程序设计基础",
+    "teacherName": "李戈",
+    "enrollCount": 9453,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/sues-1002251006",
+    "name": "数据库技术导论",
+    "teacherName": "赵鸣",
+    "enrollCount": 2079,
+    "schoolName": "上海工程技术大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWSUAF-1003729002",
+    "name": "程序设计基础（VB）",
+    "teacherName": "李茵",
+    "enrollCount": 11487,
+    "schoolName": "西北农林科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-1002485010",
+    "name": "大学计算机CAP",
+    "teacherName": "李凤霞",
+    "enrollCount": 17541,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1003037002",
+    "name": "大数据计算技术",
+    "teacherName": "林迪",
+    "enrollCount": 15923,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1002784001",
+    "name": "计算系统基础",
+    "teacherName": "王浩然",
+    "enrollCount": 15462,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1003735010",
+    "name": "编译原理",
+    "teacherName": "刘洪娟",
+    "enrollCount": 6299,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/TONGJI-1001615008",
+    "name": "大学计算机基础CAP",
+    "teacherName": "杨志强",
+    "enrollCount": 30520,
+    "schoolName": "同济大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WHU-1003636002",
+    "name": "FLASH动画设计与制作",
+    "teacherName": "宋麟",
+    "enrollCount": 40046,
+    "schoolName": "武汉大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECNU-1003469004",
+    "name": "计算机系统局限性",
+    "teacherName": null,
+    "enrollCount": 1753,
+    "schoolName": "华东师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CAU-251001",
+    "name": "信息安全概论",
+    "teacherName": "吕春利",
+    "enrollCount": 15263,
+    "schoolName": "中国农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CAU-1001614009",
+    "name": "C语言程序设计——快速入门与提高CAP",
+    "teacherName": "吕春利",
+    "enrollCount": 20248,
+    "schoolName": "中国农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CAU-24005",
+    "name": "C语言程序设计——快速入门与提高",
+    "teacherName": "吕春利",
+    "enrollCount": 45551,
+    "schoolName": "中国农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-1001659002",
+    "name": "计算机原理（下）",
+    "teacherName": "唐玉华",
+    "enrollCount": 21606,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-1001615004",
+    "name": "大学英语（口语）CAP",
+    "teacherName": "彭天笑",
+    "enrollCount": 154484,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CCSFDX-1205890802",
+    "name": "法语入门",
+    "teacherName": "焦旸",
+    "enrollCount": 8763,
+    "schoolName": "长春师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CSU-1003383007",
+    "name": "翻译导论",
+    "teacherName": "杨文地",
+    "enrollCount": 4873,
+    "schoolName": "中南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZJU-1002010003",
+    "name": "表达与沟通：海外留学英语",
+    "teacherName": "方凡",
+    "enrollCount": 10327,
+    "schoolName": "浙江大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1206138820",
+    "name": "大学日语 进阶篇",
+    "teacherName": "赵蔚青",
+    "enrollCount": 5997,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWPU-1207110809",
+    "name": "实用英语写作",
+    "teacherName": "谭键",
+    "enrollCount": 1543,
+    "schoolName": "西北工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206303849",
+    "name": "初级汉语口语入门",
+    "teacherName": "常娜",
+    "enrollCount": 202,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUU-1001672008",
+    "name": "英美诗歌名篇选读",
+    "teacherName": "黄宗英",
+    "enrollCount": 682,
+    "schoolName": "北京联合大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JMU-1002922010",
+    "name": "英语听力技能与实践",
+    "teacherName": "黄锐",
+    "enrollCount": 2203,
+    "schoolName": "集美大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HNU-1003038001",
+    "name": "国际交流学术英文写作",
+    "teacherName": "夏赛辉",
+    "enrollCount": 773,
+    "schoolName": "湖南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1206182801",
+    "name": "中级综合英语",
+    "teacherName": "付天英",
+    "enrollCount": 300,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1002841007",
+    "name": "商务汉语（中国经济聚焦）",
+    "teacherName": "冯传强",
+    "enrollCount": 60,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HNU-1003276001",
+    "name": "国际交流实用英文写作",
+    "teacherName": "胡志雯",
+    "enrollCount": 1583,
+    "schoolName": "湖南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CCNU-1206432811",
+    "name": "跨文化交际入门",
+    "teacherName": "陈浪",
+    "enrollCount": 1206,
+    "schoolName": "华中师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1207483804",
+    "name": "TED英语视听说",
+    "teacherName": "卫朝霞",
+    "enrollCount": 6058,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1002835006",
+    "name": "英语演讲艺术",
+    "teacherName": "常虹",
+    "enrollCount": 1714,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UIBE-1206452811",
+    "name": "数字时代的商务英语写作",
+    "teacherName": "冯海颖",
+    "enrollCount": 449,
+    "schoolName": "对外经济贸易大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1449270162",
+    "name": "国际组织概览与探析",
+    "teacherName": "李正仁",
+    "enrollCount": 113,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XDU-1205726803",
+    "name": "科技英语翻译",
+    "teacherName": "李长安",
+    "enrollCount": 567,
+    "schoolName": "西安电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECNU-1206670871",
+    "name": "法语说中国",
+    "teacherName": "胡慧俐",
+    "enrollCount": 134,
+    "schoolName": "华东师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CCNU-1206684853",
+    "name": "二外日语（1）",
+    "teacherName": "娜仁图雅",
+    "enrollCount": 719,
+    "schoolName": "华中师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1207561803",
+    "name": "英语特写采访与写作",
+    "teacherName": "林岩",
+    "enrollCount": 117,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CNU-1206456819",
+    "name": "基础法语",
+    "teacherName": "朱轶青",
+    "enrollCount": 664,
+    "schoolName": "首都师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FJNU-1205703808",
+    "name": "博士生公共英语思辨阅读",
+    "teacherName": "林明金",
+    "enrollCount": 297,
+    "schoolName": "福建师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUN-1207421809",
+    "name": "英语演讲技巧与实践",
+    "teacherName": "张玫",
+    "enrollCount": 194,
+    "schoolName": "北方民族大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1449269167",
+    "name": "新一代大学英语",
+    "teacherName": "陈向京",
+    "enrollCount": 359,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUG-1206458819",
+    "name": "户外运动英语",
+    "teacherName": "韩松",
+    "enrollCount": 302,
+    "schoolName": "中国地质大学（武汉）"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JLU-1205723807",
+    "name": "综合日语实践——基础日语1",
+    "teacherName": "周异夫",
+    "enrollCount": 16386,
+    "schoolName": "吉林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SCU-1002922016",
+    "name": "外国文学欣赏",
+    "teacherName": "卢迎伏",
+    "enrollCount": 341,
+    "schoolName": "四川大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206307850",
+    "name": "HSK4级强化课程",
+    "teacherName": "管延增",
+    "enrollCount": 138,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1207427806",
+    "name": "同声传译基础",
+    "teacherName": "常虹",
+    "enrollCount": 2115,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206313844",
+    "name": "初级汉语语法进阶",
+    "teacherName": "牟世荣",
+    "enrollCount": 120,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUNNU-1002604004",
+    "name": "英语演讲与辩论",
+    "teacherName": "罗坚",
+    "enrollCount": 913,
+    "schoolName": "湖南师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1002833011",
+    "name": "英语辩论",
+    "teacherName": "陈向京",
+    "enrollCount": 1675,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/USTB-1206420808",
+    "name": "日本大众文化",
+    "teacherName": "王书玮",
+    "enrollCount": 494,
+    "schoolName": "北京科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JLU-1205812821",
+    "name": "国际学术交流英语",
+    "teacherName": "梁晓君",
+    "enrollCount": 238,
+    "schoolName": "吉林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XDU-1450851188",
+    "name": "通用英语（三）",
+    "teacherName": "陈万庆",
+    "enrollCount": 116,
+    "schoolName": "西安电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1207167810",
+    "name": "体育综合英语1",
+    "teacherName": "刘力瑜",
+    "enrollCount": 88,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1001773023",
+    "name": "诺奖作家英文作品赏析",
+    "teacherName": "黄芙蓉",
+    "enrollCount": 103,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HNU-1003037001",
+    "name": "国际交流英文演讲与辩论",
+    "teacherName": "邓媛",
+    "enrollCount": 1057,
+    "schoolName": "湖南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206312836",
+    "name": "初级汉语综合课教学法",
+    "teacherName": "姜丽萍",
+    "enrollCount": 202,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1002534008",
+    "name": "中国文化英语讲",
+    "teacherName": "马新",
+    "enrollCount": 1412,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/USTB-1205812820",
+    "name": "英语学术论文写作",
+    "teacherName": "薛锦",
+    "enrollCount": 2127,
+    "schoolName": "北京科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1003043001",
+    "name": "日本文化解读",
+    "teacherName": "王丹丹",
+    "enrollCount": 140,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CQU-1205885808",
+    "name": "学术论文文献阅读与机助汉英翻译",
+    "teacherName": "何欣忆",
+    "enrollCount": 711,
+    "schoolName": "重庆大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206626831",
+    "name": "第二语言习得",
+    "teacherName": "闻亭",
+    "enrollCount": 1173,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUC-1206076804",
+    "name": "中国传统文化：博我以文",
+    "teacherName": "洪丽",
+    "enrollCount": 307,
+    "schoolName": "中国传媒大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XDU-1002199013",
+    "name": "科技英语语法",
+    "teacherName": "马刚",
+    "enrollCount": 1336,
+    "schoolName": "西安电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUPT-1206702821",
+    "name": "中国文化传承与科技创新",
+    "teacherName": "张钫炜",
+    "enrollCount": 23,
+    "schoolName": "北京邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUG-1206083805",
+    "name": "批判思维与英文写作",
+    "teacherName": "葛亚非",
+    "enrollCount": 204,
+    "schoolName": "中国地质大学（武汉）"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1205722809",
+    "name": "高级综合英语",
+    "teacherName": "李京平",
+    "enrollCount": 1012,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/USTB-1206404811",
+    "name": "口译理论与实践",
+    "teacherName": "满海霞",
+    "enrollCount": 290,
+    "schoolName": "北京科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1003468003",
+    "name": "英汉修辞对比赏析",
+    "teacherName": "辛志英",
+    "enrollCount": 205,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1002835005",
+    "name": "功能汉语速成",
+    "teacherName": "徐雨隽",
+    "enrollCount": 126,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CQU-1450151161",
+    "name": "主题英语阅读",
+    "teacherName": "李小辉",
+    "enrollCount": 901,
+    "schoolName": "重庆大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HEBTU-1205999805",
+    "name": "综合英语",
+    "teacherName": "梁文霞",
+    "enrollCount": 282,
+    "schoolName": "河北师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1449489165",
+    "name": "西方思想经典",
+    "teacherName": "朱刚",
+    "enrollCount": 1315,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JMU-1002693027",
+    "name": "英语语法与句子写作",
+    "teacherName": "赵以",
+    "enrollCount": 3839,
+    "schoolName": "集美大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1206220812",
+    "name": "生物医学英语写作",
+    "teacherName": "范晓晖",
+    "enrollCount": 764,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1207432809",
+    "name": "英语思辨与交流",
+    "teacherName": "刘睿",
+    "enrollCount": 813,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUG-1205714808",
+    "name": "地学英语阅读",
+    "teacherName": "胡冬梅",
+    "enrollCount": 304,
+    "schoolName": "中国地质大学（武汉）"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1001639001",
+    "name": "英语语言学概论",
+    "teacherName": "董革非",
+    "enrollCount": 772,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1002598041",
+    "name": "初级汉语语法",
+    "teacherName": "王瑞烽",
+    "enrollCount": 634,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/QDU-1450775237",
+    "name": "法语语法一点通",
+    "teacherName": "马一凡",
+    "enrollCount": 891,
+    "schoolName": "青岛大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UIBE-1206453812",
+    "name": "商务英语听说",
+    "teacherName": "江春",
+    "enrollCount": 977,
+    "schoolName": "对外经济贸易大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SDU-1207170807",
+    "name": "综合日语入门",
+    "teacherName": "王慧荣",
+    "enrollCount": 3005,
+    "schoolName": "山东大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1207476802",
+    "name": "美国经典短篇小说赏析",
+    "teacherName": "李美华",
+    "enrollCount": 480,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1206150815",
+    "name": "商务英语",
+    "teacherName": "徐丽华",
+    "enrollCount": 109,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JMU-1002603018",
+    "name": "英语演讲",
+    "teacherName": "蒋联江",
+    "enrollCount": 13779,
+    "schoolName": "集美大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUU-1206448815",
+    "name": "大学英语：一带一路沿线国家文化专题",
+    "teacherName": "高华",
+    "enrollCount": 119,
+    "schoolName": "北京联合大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206865802",
+    "name": "初级综合汉语",
+    "teacherName": "张浩",
+    "enrollCount": 84,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NENU-1206691807",
+    "name": "英语视听",
+    "teacherName": "赵哲",
+    "enrollCount": 563,
+    "schoolName": "东北师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/sues-1205674803",
+    "name": "商务英语",
+    "teacherName": "李宏波",
+    "enrollCount": 299,
+    "schoolName": "上海工程技术大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1450847185",
+    "name": "新导向大学英语（一）",
+    "teacherName": "李素英",
+    "enrollCount": 425,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206638814",
+    "name": "中国概况",
+    "teacherName": "郭鹏",
+    "enrollCount": 265,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SWJTU-1207437812",
+    "name": "学术素养英语",
+    "teacherName": "沈一新",
+    "enrollCount": 87,
+    "schoolName": "西南交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-153003",
+    "name": "国际交流英语",
+    "teacherName": "周之南",
+    "enrollCount": 9360,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/QDU-1456111166",
+    "name": "直通法国—阅读与文化",
+    "teacherName": "段丽君",
+    "enrollCount": 253,
+    "schoolName": "青岛大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWSUAF-1207190810",
+    "name": "汉英翻译基础",
+    "teacherName": "李希承",
+    "enrollCount": 1291,
+    "schoolName": "西北农林科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HZAU-1003277001",
+    "name": "外国文学名著导读",
+    "teacherName": "方红",
+    "enrollCount": 257,
+    "schoolName": "华中农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JMU-1205729804",
+    "name": "大学英语综合教程4",
+    "teacherName": "余小敏",
+    "enrollCount": 626,
+    "schoolName": "集美大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZUEL-1001822002",
+    "name": "商务英语",
+    "teacherName": "袁奇",
+    "enrollCount": 6602,
+    "schoolName": "中南财经政法大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SWJTU-1206460813",
+    "name": "国际礼仪场景英语",
+    "teacherName": "但鸽",
+    "enrollCount": 164,
+    "schoolName": "西南交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1207049807",
+    "name": "《论语》英译鉴赏",
+    "teacherName": "辛志英",
+    "enrollCount": 162,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BISU-1206351801",
+    "name": "中级汉语视听说",
+    "teacherName": "宋飞",
+    "enrollCount": 64,
+    "schoolName": "北京第二外国语学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1003605004",
+    "name": "德语入门：基础语音和会话",
+    "teacherName": "常晅",
+    "enrollCount": 873,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CQU-1002485006",
+    "name": "新大学英语·阅读与思辨（下）",
+    "teacherName": "李小辉",
+    "enrollCount": 175,
+    "schoolName": "重庆大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZJU-1206461833",
+    "name": "跟我学俄语（1）",
+    "teacherName": "王永",
+    "enrollCount": 1280,
+    "schoolName": "浙江大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1001915003",
+    "name": "职场沟通英语",
+    "teacherName": "刘畅",
+    "enrollCount": 321,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CSU-1003378008",
+    "name": "英语演讲技巧与实训",
+    "teacherName": "张春敏",
+    "enrollCount": 3136,
+    "schoolName": "中南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SWJTU-1206453815",
+    "name": "国际工程承包和管理实务英语",
+    "teacherName": "戴若愚",
+    "enrollCount": 287,
+    "schoolName": "西南交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SDU-1207034801",
+    "name": "人人会写作——Write with Me",
+    "teacherName": "邵春燕",
+    "enrollCount": 388,
+    "schoolName": "山东大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HLJU-1206434803",
+    "name": "大学英语跨文化交际",
+    "teacherName": "严明",
+    "enrollCount": 815,
+    "schoolName": "黑龙江大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUU-1206461818",
+    "name": "跨文化交际",
+    "teacherName": "迟红",
+    "enrollCount": 700,
+    "schoolName": "北京联合大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1206700828",
+    "name": "英语语音与信息沟通",
+    "teacherName": "陈桦",
+    "enrollCount": 916,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SISUEDU-1002745031",
+    "name": "高级英语写作",
+    "teacherName": "黑玉琴",
+    "enrollCount": 1607,
+    "schoolName": "西安外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JXUFE-1206451831",
+    "name": "翻译理论与实践",
+    "teacherName": "曾剑平",
+    "enrollCount": 755,
+    "schoolName": "江西财经大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHNU-1003171003",
+    "name": "英汉互译",
+    "teacherName": "王惠萍",
+    "enrollCount": 2249,
+    "schoolName": "上海师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FZFU-1205666803",
+    "name": "基础法语",
+    "teacherName": "石琳",
+    "enrollCount": 2528,
+    "schoolName": "福州外语外贸学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZUST-1206643806",
+    "name": "初级汉语综合",
+    "teacherName": "陈海芳",
+    "enrollCount": 233,
+    "schoolName": "浙江科技学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1205709808",
+    "name": "通用学术英语（技能篇）",
+    "teacherName": "钱希",
+    "enrollCount": 1083,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECJTU-1206603804",
+    "name": "大学英语2",
+    "teacherName": "袁平华",
+    "enrollCount": 167,
+    "schoolName": "华东交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/PKU-1206423806",
+    "name": "英语演讲与演示",
+    "teacherName": "张宏岩",
+    "enrollCount": 890,
+    "schoolName": "北京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1001962004",
+    "name": "中西文明比照",
+    "teacherName": "吕汀",
+    "enrollCount": 192,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1003499002",
+    "name": "俄罗斯文化之旅",
+    "teacherName": "徐琪",
+    "enrollCount": 238,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CQU-1002485003",
+    "name": "新大学英语·阅读与思辨（上）",
+    "teacherName": "李小辉",
+    "enrollCount": 1021,
+    "schoolName": "重庆大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1206876802",
+    "name": "职业发展英语",
+    "teacherName": "李雪",
+    "enrollCount": 718,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WHU-1002924016",
+    "name": "汉语upup",
+    "teacherName": "熊莉",
+    "enrollCount": 294,
+    "schoolName": "武汉大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HZAU-1205906804",
+    "name": "大学英语综合教程（高级）",
+    "teacherName": "王菲",
+    "enrollCount": 410,
+    "schoolName": "华中农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1003567007",
+    "name": "英国小说",
+    "teacherName": "王守仁",
+    "enrollCount": 2353,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JXLGDX-1206776807",
+    "name": "新融合大学英语（I）",
+    "teacherName": "刘书亮",
+    "enrollCount": 52,
+    "schoolName": "江西理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1003453003",
+    "name": "英国诺奖作家经典赏析",
+    "teacherName": "张龙海",
+    "enrollCount": 224,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZJNU-1206590812",
+    "name": "师范英语口语",
+    "teacherName": "骆传伟",
+    "enrollCount": 1424,
+    "schoolName": "浙江师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UIBE-1206446812",
+    "name": "日本与日本文化",
+    "teacherName": "吴英杰",
+    "enrollCount": 418,
+    "schoolName": "对外经济贸易大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEAU-1205968810",
+    "name": "中国文化英语",
+    "teacherName": "杨亚丽",
+    "enrollCount": 320,
+    "schoolName": "东北农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CCSFDX-1205895804",
+    "name": "中级日语阅读",
+    "teacherName": "王丽莉",
+    "enrollCount": 1184,
+    "schoolName": "长春师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JXUFE-1206456825",
+    "name": "实用英语演讲",
+    "teacherName": "杜景平",
+    "enrollCount": 1279,
+    "schoolName": "江西财经大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUBU-1002981005",
+    "name": "英语畅谈中国",
+    "teacherName": "王志茹",
+    "enrollCount": 2011,
+    "schoolName": "湖北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1205914806",
+    "name": "日本近现代文学选读",
+    "teacherName": "高洁",
+    "enrollCount": 310,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SJTU-1003444005",
+    "name": "法国语言文化入门",
+    "teacherName": "杜燕",
+    "enrollCount": 1207,
+    "schoolName": "上海交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CSU-1207399810",
+    "name": "医学英语阅读",
+    "teacherName": "谢芸",
+    "enrollCount": 1343,
+    "schoolName": "中南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SJTU-1003382018",
+    "name": "基础德语",
+    "teacherName": "范黎坤",
+    "enrollCount": 5150,
+    "schoolName": "上海交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HDZF-1450724235",
+    "name": "英汉汉英商务翻译",
+    "teacherName": "伍巧芳",
+    "enrollCount": 592,
+    "schoolName": "华东政法大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HZAU-1002477004",
+    "name": "英国文学导读",
+    "teacherName": "邓小红",
+    "enrollCount": 1082,
+    "schoolName": "华中农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUST-1003313006",
+    "name": "大学英语词汇解析",
+    "teacherName": "刘泽华",
+    "enrollCount": 7090,
+    "schoolName": "华中科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1003537160",
+    "name": "英语演讲之道",
+    "teacherName": "江桂英",
+    "enrollCount": 693,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1002609067",
+    "name": "英语短篇小说",
+    "teacherName": "虞建华",
+    "enrollCount": 5180,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1002528009",
+    "name": "大学英语词汇",
+    "teacherName": "邵钦瑜",
+    "enrollCount": 593,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1205723812",
+    "name": "中级西班牙语I",
+    "teacherName": "梁静",
+    "enrollCount": 290,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206312838",
+    "name": "外国文学中的女性",
+    "teacherName": "黄悦",
+    "enrollCount": 388,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UIBE-1206447838",
+    "name": "综合商务英语",
+    "teacherName": "孙亚",
+    "enrollCount": 913,
+    "schoolName": "对外经济贸易大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/DUT-1207183802",
+    "name": "英语核心能力提升（雅思篇）",
+    "teacherName": "刘辉",
+    "enrollCount": 1210,
+    "schoolName": "大连理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUC-1206633817",
+    "name": "商务英语写作实践",
+    "teacherName": "芮燕萍",
+    "enrollCount": 808,
+    "schoolName": "中北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SDU-1206581808",
+    "name": "学术英语写作",
+    "teacherName": "张聪",
+    "enrollCount": 951,
+    "schoolName": "山东大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUAA-1206675812",
+    "name": "大学通用俄语（2）",
+    "teacherName": "武晓霞",
+    "enrollCount": 758,
+    "schoolName": "北京航空航天大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XDU-1003538130",
+    "name": "新实用汉译英翻译课程",
+    "teacherName": "陈争峰",
+    "enrollCount": 548,
+    "schoolName": "西安电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CSU-1453146163",
+    "name": "实用英语写作",
+    "teacherName": "陈洁",
+    "enrollCount": 772,
+    "schoolName": "中南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECJTU-1206607804",
+    "name": "大学英语1",
+    "teacherName": "袁平华",
+    "enrollCount": 106,
+    "schoolName": "华东交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/USTB-1205798829",
+    "name": "研究生英语科技论文写作",
+    "teacherName": "何中清",
+    "enrollCount": 1931,
+    "schoolName": "北京科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-1205986812",
+    "name": "Academic English Writing （学术英语写作）",
+    "teacherName": "张莱湘",
+    "enrollCount": 435,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUC-1206077802",
+    "name": "英语演讲艺术",
+    "teacherName": "姜薇",
+    "enrollCount": 523,
+    "schoolName": "中国传媒大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SISUEDU-1205888824",
+    "name": "白俄罗斯文化之旅",
+    "teacherName": "余源",
+    "enrollCount": 211,
+    "schoolName": "西安外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JNU-1207453803",
+    "name": "国际商务文化—一门关于沟通的学问",
+    "teacherName": "罗靖",
+    "enrollCount": 354,
+    "schoolName": "暨南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NKU-1003353002",
+    "name": "思辨式英文写作",
+    "teacherName": "唐磊",
+    "enrollCount": 902,
+    "schoolName": "南开大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1003781004",
+    "name": "英语科技文献阅读",
+    "teacherName": "赵毓琴",
+    "enrollCount": 690,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SEU-1001664002",
+    "name": "学术交流英语",
+    "teacherName": "陈美华",
+    "enrollCount": 1281,
+    "schoolName": "东南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1207561802",
+    "name": "日本近代文学史",
+    "teacherName": "高洁",
+    "enrollCount": 481,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/GDUFS-1206115801",
+    "name": "中级英语写作",
+    "teacherName": "姜琳",
+    "enrollCount": 1869,
+    "schoolName": "广东外语外贸大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/USTB-1205772806",
+    "name": "通用学术英语进阶",
+    "teacherName": "张敬源",
+    "enrollCount": 1049,
+    "schoolName": "北京科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/USTB-1205774809",
+    "name": "大学英语进阶",
+    "teacherName": "张敬源",
+    "enrollCount": 1794,
+    "schoolName": "北京科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1205722812",
+    "name": "商务英语",
+    "teacherName": "邵钦瑜",
+    "enrollCount": 701,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1206446817",
+    "name": "汉语初级入门",
+    "teacherName": "张艳莉",
+    "enrollCount": 262,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-1002106008",
+    "name": "大学英语综合课程（三）",
+    "teacherName": "梁晓波",
+    "enrollCount": 700,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-1002105007",
+    "name": "大学英语综合课程（四）",
+    "teacherName": "梁晓波",
+    "enrollCount": 606,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1456085167",
+    "name": "口译基础",
+    "teacherName": "肖晓燕",
+    "enrollCount": 1570,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/DUT-1001808011",
+    "name": "IT行业职场英语",
+    "teacherName": "王宇",
+    "enrollCount": 1427,
+    "schoolName": "大连理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECNU-1205971803",
+    "name": "东亚文化视野下的日本语言文学",
+    "teacherName": "尹松",
+    "enrollCount": 448,
+    "schoolName": "华东师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1003625002",
+    "name": "20世纪美国经典小说赏析",
+    "teacherName": "李美华",
+    "enrollCount": 266,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/MUC-1207176809",
+    "name": "中国民族文化英语说",
+    "teacherName": "刘立",
+    "enrollCount": 410,
+    "schoolName": "中央民族大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WHU-1002600064",
+    "name": "英国社会与文化",
+    "teacherName": "方妍",
+    "enrollCount": 1089,
+    "schoolName": "武汉大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FZFU-1206066804",
+    "name": "基础西班牙语",
+    "teacherName": "潘文翠",
+    "enrollCount": 831,
+    "schoolName": "福州外语外贸学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1003361044",
+    "name": "中国传统节日文化（西班牙语）",
+    "teacherName": "陈芷",
+    "enrollCount": 176,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FAFU-1002042002",
+    "name": "外经贸英语函电",
+    "teacherName": "张云清",
+    "enrollCount": 1763,
+    "schoolName": "福建农林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JLU-1205714807",
+    "name": "英文电影中的西方文化",
+    "teacherName": "冯彦",
+    "enrollCount": 966,
+    "schoolName": "吉林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JMU-1205716804",
+    "name": "大学英语综合教程3",
+    "teacherName": "蒋联江",
+    "enrollCount": 515,
+    "schoolName": "集美大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CSU-1003381008",
+    "name": "新闻英语",
+    "teacherName": "李丽君",
+    "enrollCount": 2780,
+    "schoolName": "中南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-1001662022",
+    "name": "大学英语综合课程(一)",
+    "teacherName": "林骊珠",
+    "enrollCount": 1943,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-1001662021",
+    "name": "大学英语综合课程（二）",
+    "teacherName": "林骊珠",
+    "enrollCount": 1235,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUG-1003542002",
+    "name": "带你走进西班牙（1）",
+    "teacherName": "任晴",
+    "enrollCount": 581,
+    "schoolName": "中国地质大学（武汉）"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJTU-1450799189",
+    "name": "初级综合英语",
+    "teacherName": "吴晓春",
+    "enrollCount": 505,
+    "schoolName": "北京交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BNU-1206875801",
+    "name": "女性、写作、成长",
+    "teacherName": "张欣",
+    "enrollCount": 585,
+    "schoolName": "北京师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/YNU-1207422804",
+    "name": "通用学术英语听说",
+    "teacherName": "王坚",
+    "enrollCount": 1376,
+    "schoolName": "云南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SJTU-1206705804",
+    "name": "学术英语写作与演讲",
+    "teacherName": "张荔",
+    "enrollCount": 382,
+    "schoolName": "上海交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1207535805",
+    "name": "汉语精读",
+    "teacherName": "姚远",
+    "enrollCount": 292,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SWJTU-1002351002",
+    "name": "职场英语",
+    "teacherName": "杨安文",
+    "enrollCount": 3099,
+    "schoolName": "西南交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JXNU-1206660803",
+    "name": "英语国家概况",
+    "teacherName": "刘政",
+    "enrollCount": 1183,
+    "schoolName": "江西师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HZNU-1001957005",
+    "name": "印象英美——穿越时空之旅",
+    "teacherName": "骆蓉",
+    "enrollCount": 1408,
+    "schoolName": "杭州师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JMU-1206683807",
+    "name": "基础英语写作系统训练",
+    "teacherName": "韩东红",
+    "enrollCount": 873,
+    "schoolName": "集美大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWPU-1003246006",
+    "name": "交际英语",
+    "teacherName": "赵雪爱",
+    "enrollCount": 852,
+    "schoolName": "西北工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/USTC-1206352804",
+    "name": "基础英语写作",
+    "teacherName": "张曼君",
+    "enrollCount": 586,
+    "schoolName": "中国科学技术大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SWJTU-1001962002",
+    "name": "全球化与中国文化",
+    "teacherName": "王俊棋",
+    "enrollCount": 789,
+    "schoolName": "西南交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1003761009",
+    "name": "国际学术交流英语",
+    "teacherName": "王松",
+    "enrollCount": 767,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SCUT-1003472012",
+    "name": "西班牙语初级",
+    "teacherName": "何文君",
+    "enrollCount": 639,
+    "schoolName": "华南理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SDU-1450297345",
+    "name": "英语话中华",
+    "teacherName": "陈伟",
+    "enrollCount": 799,
+    "schoolName": "山东大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1003661001",
+    "name": "学术交流英语—语言技能",
+    "teacherName": "李京南",
+    "enrollCount": 492,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUAA-1206676813",
+    "name": "俄语基础语法",
+    "teacherName": "武晓霞",
+    "enrollCount": 1227,
+    "schoolName": "北京航空航天大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUAA-1205702803",
+    "name": "大学通用俄语（1）",
+    "teacherName": "武晓霞",
+    "enrollCount": 1959,
+    "schoolName": "北京航空航天大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHNU-1207123809",
+    "name": "英语演讲",
+    "teacherName": "李丹",
+    "enrollCount": 778,
+    "schoolName": "上海师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1449343161",
+    "name": "大学思辨英语听力",
+    "teacherName": "王艳",
+    "enrollCount": 2642,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XDU-1455015175",
+    "name": "笔译技巧与实践（MTI）",
+    "teacherName": "陈争峰",
+    "enrollCount": 587,
+    "schoolName": "西安电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/KMUST-1206689815",
+    "name": "理工学术英语",
+    "teacherName": "杨玉",
+    "enrollCount": 262,
+    "schoolName": "昆明理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHNU-1003347001",
+    "name": "英语语音",
+    "teacherName": "卜友红",
+    "enrollCount": 10652,
+    "schoolName": "上海师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SWJTU-1206450819",
+    "name": "大学法语与法国文化",
+    "teacherName": "左天梦",
+    "enrollCount": 640,
+    "schoolName": "西南交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-1207443803",
+    "name": "英文科技论文写作",
+    "teacherName": "刘芳",
+    "enrollCount": 482,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUST-1206674860",
+    "name": "英汉语言对比",
+    "teacherName": "张再红",
+    "enrollCount": 1438,
+    "schoolName": "华中科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUEB-1002986005",
+    "name": "财经英语看世界",
+    "teacherName": "刘重霄",
+    "enrollCount": 641,
+    "schoolName": "首都经济贸易大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1002777003",
+    "name": "大学英语学术写作",
+    "teacherName": "王海啸",
+    "enrollCount": 1956,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1001753386",
+    "name": "大学英语学术阅读",
+    "teacherName": "王海啸",
+    "enrollCount": 3727,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CSU-1207394812",
+    "name": "中西文化对比与交流",
+    "teacherName": "傅晓燕",
+    "enrollCount": 830,
+    "schoolName": "中南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HZAU-1003248004",
+    "name": "大学英语综合教程（中级）",
+    "teacherName": "胡素芬",
+    "enrollCount": 471,
+    "schoolName": "华中农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HZAU-1002601030",
+    "name": "大学英语综合教程（初级）",
+    "teacherName": "胡素芬",
+    "enrollCount": 352,
+    "schoolName": "华中农业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JNU-1001929011",
+    "name": "英语语法与写作",
+    "teacherName": "朱湘军",
+    "enrollCount": 14167,
+    "schoolName": "暨南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BIT-1449639161",
+    "name": "德语基础语言学导论",
+    "teacherName": "张勇",
+    "enrollCount": 500,
+    "schoolName": "北京理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CUG-1205884805",
+    "name": "英语语音",
+    "teacherName": "王国念",
+    "enrollCount": 4610,
+    "schoolName": "中国地质大学（武汉）"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1205891821",
+    "name": "医学英语翻译",
+    "teacherName": "朱元",
+    "enrollCount": 1882,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUBU-1002989007",
+    "name": "法语说法国",
+    "teacherName": "张凌",
+    "enrollCount": 689,
+    "schoolName": "湖北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NBUT-1206146812",
+    "name": "国际商务英语（口语与听力）",
+    "teacherName": "莫群俐",
+    "enrollCount": 1772,
+    "schoolName": "宁波工程学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1002761018",
+    "name": "学术英语写作基础",
+    "teacherName": "江桂英",
+    "enrollCount": 983,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1002329018",
+    "name": "大学英语写作基础",
+    "teacherName": "江桂英",
+    "enrollCount": 2792,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JMU-1205717810",
+    "name": "大学英语综合教程2",
+    "teacherName": "江亦川",
+    "enrollCount": 5779,
+    "schoolName": "集美大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JMU-1205716803",
+    "name": "大学英语综合教程1",
+    "teacherName": "林燕",
+    "enrollCount": 871,
+    "schoolName": "集美大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1449518164",
+    "name": "国际汉语初级课堂教学",
+    "teacherName": "王天星",
+    "enrollCount": 825,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CNU-1003017007",
+    "name": "西班牙文学选读",
+    "teacherName": "蔡潇洁",
+    "enrollCount": 572,
+    "schoolName": "首都师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1002533017",
+    "name": "大学日语",
+    "teacherName": "张文丽",
+    "enrollCount": 19809,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1206984801",
+    "name": "中英文科技论文写作",
+    "teacherName": "张尧立",
+    "enrollCount": 2503,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BISU-1456121163",
+    "name": "跨文化交际口语",
+    "teacherName": "张喜华",
+    "enrollCount": 659,
+    "schoolName": "北京第二外国语学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/DUT-1206429801",
+    "name": "中级日语听说",
+    "teacherName": "韩兰灵",
+    "enrollCount": 259,
+    "schoolName": "大连理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206446823",
+    "name": "从古典到现代——中国文化系列英文专题",
+    "teacherName": "陆薇",
+    "enrollCount": 420,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JNU-1002081009",
+    "name": "华文教育技术与实践",
+    "teacherName": "熊玉珍",
+    "enrollCount": 275,
+    "schoolName": "暨南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1001745011",
+    "name": "新科学家英语：演讲与写作",
+    "teacherName": "李雪",
+    "enrollCount": 674,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1449962175",
+    "name": "研究性英语期刊论文写作",
+    "teacherName": "江桂英",
+    "enrollCount": 721,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CSU-1003376007",
+    "name": "综合英语",
+    "teacherName": "李瑶",
+    "enrollCount": 3765,
+    "schoolName": "中南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/USTB-299003",
+    "name": "大学英语自学课程（上）",
+    "teacherName": "张敬源",
+    "enrollCount": 604468,
+    "schoolName": "北京科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BFSU-1001604001",
+    "name": "会计学原理",
+    "teacherName": "王德宏",
+    "enrollCount": 72655,
+    "schoolName": "北京外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SWUFE-1206066805",
+    "name": "商务英语-案例篇",
+    "teacherName": "谢娟",
+    "enrollCount": 2394,
+    "schoolName": "西南财经大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1449342161",
+    "name": "大学法语：法语语音基础",
+    "teacherName": "周越",
+    "enrollCount": 7921,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1002331010",
+    "name": "英汉互译方法与技巧",
+    "teacherName": "姚媛",
+    "enrollCount": 20100,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1207454802",
+    "name": "英汉交替传译",
+    "teacherName": "张金玲",
+    "enrollCount": 1100,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NWSUAF-1003733002",
+    "name": "口语与演讲",
+    "teacherName": "张晓容",
+    "enrollCount": 1958,
+    "schoolName": "西北农林科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SJTU-1003363022",
+    "name": "你好，中文（中级）  Intermediate Chinese",
+    "teacherName": "王骏",
+    "enrollCount": 686,
+    "schoolName": "上海交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/IMU-1206705801",
+    "name": "全新版大学进阶英语综合教程I",
+    "teacherName": "刘丽军",
+    "enrollCount": 1486,
+    "schoolName": "内蒙古大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/IMU-1207106812",
+    "name": "全新版大学进阶英语综合教程II",
+    "teacherName": "刘丽军",
+    "enrollCount": 1913,
+    "schoolName": "内蒙古大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/cupl-1003409003",
+    "name": "通用学术英语写作",
+    "teacherName": "张洪芹",
+    "enrollCount": 437,
+    "schoolName": "中国政法大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SDU-1207062801",
+    "name": "日本历史与文化",
+    "teacherName": "邢永凤",
+    "enrollCount": 3218,
+    "schoolName": "山东大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1002332006",
+    "name": "大学英语进阶课程",
+    "teacherName": "张龙海",
+    "enrollCount": 539,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/FJNU-1003218001",
+    "name": "职场口笔译",
+    "teacherName": "岳峰",
+    "enrollCount": 1157,
+    "schoolName": "福建师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1207556805",
+    "name": "中东欧文化",
+    "teacherName": "钱琴",
+    "enrollCount": 1986,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1449269166",
+    "name": "英语演讲",
+    "teacherName": "王睿",
+    "enrollCount": 11219,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SCU-210002",
+    "name": "美国文化",
+    "teacherName": "周毅",
+    "enrollCount": 66,
+    "schoolName": "四川大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUPT-1003565005",
+    "name": "理工科英语演讲",
+    "teacherName": "陈真真",
+    "enrollCount": 5,
+    "schoolName": "北京邮电大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CFAU-1206305840",
+    "name": "英语政论",
+    "teacherName": "许宏晨",
+    "enrollCount": 21,
+    "schoolName": "外交学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JLU-1001553026",
+    "name": "大学英语过程写作",
+    "teacherName": "林娟",
+    "enrollCount": 85,
+    "schoolName": "吉林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NCU-1002535017",
+    "name": "日语高级视听",
+    "teacherName": "刘婷",
+    "enrollCount": 40,
+    "schoolName": "南昌大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SISUEDU-1003632002",
+    "name": "基础意大利语——语法篇",
+    "teacherName": "翟恒",
+    "enrollCount": 53,
+    "schoolName": "西安外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HIT-1449775174",
+    "name": "英文期刊论文发表-通往国际学术舞台的阶梯",
+    "teacherName": "顾晓乐",
+    "enrollCount": 372,
+    "schoolName": "哈尔滨工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1002536013",
+    "name": "速成汉语语法课堂",
+    "teacherName": "种一凡",
+    "enrollCount": 205,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BFU-1205907804",
+    "name": "英美文学里的生态",
+    "teacherName": "南宫梅芳",
+    "enrollCount": 320,
+    "schoolName": "北京林业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUU-1003360024",
+    "name": "圣经文学",
+    "teacherName": "黄宗英",
+    "enrollCount": 156,
+    "schoolName": "北京联合大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XMU-1002608044",
+    "name": "美国诺奖作家经典赏析",
+    "teacherName": "张龙海",
+    "enrollCount": 195,
+    "schoolName": "厦门大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JNU-1001933007",
+    "name": "英美概况——纵览·博闻",
+    "teacherName": "陈穗珊",
+    "enrollCount": 1144,
+    "schoolName": "暨南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1207551805",
+    "name": "基础日语语法",
+    "teacherName": "曾婧",
+    "enrollCount": 18899,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SCUT-1002901002",
+    "name": "英美音乐与文化",
+    "teacherName": "周娉娣",
+    "enrollCount": 3924,
+    "schoolName": "华南理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/GDUFS-1002493010",
+    "name": "交替传译",
+    "teacherName": "余怿",
+    "enrollCount": 10418,
+    "schoolName": "广东外语外贸大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1206146813",
+    "name": "大学日语 发展篇",
+    "teacherName": "孙莉",
+    "enrollCount": 8899,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206457828",
+    "name": "高级英语演讲",
+    "teacherName": "穆杨",
+    "enrollCount": 11299,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-17004",
+    "name": "大学英语（口语）",
+    "teacherName": "刘源源",
+    "enrollCount": 25583,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JLU-1205723806",
+    "name": "中国文化的日本之旅",
+    "teacherName": "周异夫",
+    "enrollCount": 2024,
+    "schoolName": "吉林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/UESTC-1002081005",
+    "name": "英语有效表达：语言、修辞与逻辑",
+    "teacherName": "廖敏",
+    "enrollCount": 6095,
+    "schoolName": "电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1449498163",
+    "name": "英美文学入门",
+    "teacherName": "吴其尧",
+    "enrollCount": 6484,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NEU-1002083024",
+    "name": "跨文化交流",
+    "teacherName": "王立婷",
+    "enrollCount": 732,
+    "schoolName": "东北大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/MUC-1207186807",
+    "name": "文化人类学入门与导读",
+    "teacherName": "黄志辉",
+    "enrollCount": 1396,
+    "schoolName": "中央民族大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECNU-1206392806",
+    "name": "二十世纪西方思想文化潮流",
+    "teacherName": "刘擎",
+    "enrollCount": 7281,
+    "schoolName": "华东师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206635819",
+    "name": "汉语国际教育专题",
+    "teacherName": "崔永华",
+    "enrollCount": 1768,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HNLGXY-1206141816",
+    "name": "英语公众演讲",
+    "teacherName": "邹娟娟",
+    "enrollCount": 669,
+    "schoolName": "湖南理工学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/GDUFS-1002488009",
+    "name": "市场营销英语",
+    "teacherName": "刘亮星",
+    "enrollCount": 1514,
+    "schoolName": "广东外语外贸大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1450183191",
+    "name": "汉语语法与语法教学",
+    "teacherName": "刘谦功",
+    "enrollCount": 2338,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1450183193",
+    "name": "汉语语音与语音教学",
+    "teacherName": "曹文",
+    "enrollCount": 1914,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1003467013",
+    "name": "汉语国际教育概论",
+    "teacherName": "刘珣",
+    "enrollCount": 1546,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XDU-1206910801",
+    "name": "微电子专业英语",
+    "teacherName": "吕红亮",
+    "enrollCount": 1047,
+    "schoolName": "西安电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/DLMU-1206674857",
+    "name": "船舶电子电气专业英语听力与会话",
+    "teacherName": "张晓峰",
+    "enrollCount": 437,
+    "schoolName": "大连海事大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUU-1206448822",
+    "name": "人工智能英语（基础级）",
+    "teacherName": "张殿恩",
+    "enrollCount": 1083,
+    "schoolName": "北京联合大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1207537807",
+    "name": "基础英语写作",
+    "teacherName": "李晓康",
+    "enrollCount": 14015,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1206682857",
+    "name": "新公共法语初级（上）",
+    "teacherName": "李沁",
+    "enrollCount": 5875,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-168001",
+    "name": "大学英文写作（一）",
+    "teacherName": "李慧辉",
+    "enrollCount": 10289,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SWJTU-1207479804",
+    "name": "世界遗产在中国 World Heritage Sites in China",
+    "teacherName": "杨琼",
+    "enrollCount": 7,
+    "schoolName": "西南交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BNU-1002842008",
+    "name": "初级汉语口语",
+    "teacherName": "胡秀梅",
+    "enrollCount": 677,
+    "schoolName": "北京师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HNU-1205929802",
+    "name": "生活中的语言与语言学",
+    "teacherName": "余小强",
+    "enrollCount": 1900,
+    "schoolName": "湖南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/WHU-1206031802",
+    "name": "世界英语概览",
+    "teacherName": "张妍岩",
+    "enrollCount": 1994,
+    "schoolName": "武汉大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/USTB-1003245007",
+    "name": "大学英语",
+    "teacherName": "张敬源",
+    "enrollCount": 3310,
+    "schoolName": "北京科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/DLMU-1002337008",
+    "name": "航海英语听力与会话",
+    "teacherName": "王海华",
+    "enrollCount": 1784,
+    "schoolName": "大连海事大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ZSTU-1207049803",
+    "name": "口语与写作",
+    "teacherName": "陈芙",
+    "enrollCount": 1603,
+    "schoolName": "浙江理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CFAU-1206299842",
+    "name": "西语国家国情文化概况",
+    "teacherName": "王晨颖",
+    "enrollCount": 2052,
+    "schoolName": "外交学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BUU-1206446819",
+    "name": "人工智能英语（进阶级）",
+    "teacherName": "何芳",
+    "enrollCount": 737,
+    "schoolName": "北京联合大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NCU-1003721006",
+    "name": "实用日语（下）",
+    "teacherName": "刘婷",
+    "enrollCount": 2354,
+    "schoolName": "南昌大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NCU-1002964004",
+    "name": "实用日语（上）",
+    "teacherName": "刘婷",
+    "enrollCount": 2895,
+    "schoolName": "南昌大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CCSFDX-1450330177",
+    "name": "英语词源探秘",
+    "teacherName": "艾懿",
+    "enrollCount": 3572,
+    "schoolName": "长春师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHNU-1003377025",
+    "name": "英汉口译",
+    "teacherName": "李丹",
+    "enrollCount": 3103,
+    "schoolName": "上海师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/XJTU-1002736005",
+    "name": "大学日语提高篇",
+    "teacherName": "曹红荃",
+    "enrollCount": 14674,
+    "schoolName": "西安交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1449274166",
+    "name": "英语新闻采访与写作",
+    "teacherName": "郑闯",
+    "enrollCount": 4719,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1207536805",
+    "name": "朝汉语言对比",
+    "teacherName": "赵新建",
+    "enrollCount": 4890,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1207435810",
+    "name": "高级法语",
+    "teacherName": "朱燕",
+    "enrollCount": 4568,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/bjut-1003539074",
+    "name": "学术英语写作",
+    "teacherName": "万伟珊",
+    "enrollCount": 7363,
+    "schoolName": "北京工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUNNU-1205932802",
+    "name": "创意写作",
+    "teacherName": "Lauri Ramey",
+    "enrollCount": 5407,
+    "schoolName": "湖南师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1206862803",
+    "name": "走近阿拉伯",
+    "teacherName": "陆映波",
+    "enrollCount": 1987,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BISU-1456104165",
+    "name": "英语视听说",
+    "teacherName": "张喜华",
+    "enrollCount": 3667,
+    "schoolName": "北京第二外国语学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SWJTU-1207485805",
+    "name": "《红楼梦》海外译介与传播",
+    "teacherName": "任显楷",
+    "enrollCount": 2625,
+    "schoolName": "西南交通大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HDU-1002853008",
+    "name": "大学英语精读",
+    "teacherName": "刘晓红",
+    "enrollCount": 2443,
+    "schoolName": "杭州电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HDU-1206094803",
+    "name": "大学英语精读进阶",
+    "teacherName": "刘晓红",
+    "enrollCount": 699,
+    "schoolName": "杭州电子科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SCUT-1206577808",
+    "name": "庄子寓言及其智慧",
+    "teacherName": "周娉娣",
+    "enrollCount": 2130,
+    "schoolName": "华南理工大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1207407810",
+    "name": "商务英语笔译",
+    "teacherName": "田小勇",
+    "enrollCount": 11967,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/USTB-1001551007",
+    "name": "大学英语自学课程（下）",
+    "teacherName": "张敬源",
+    "enrollCount": 10045,
+    "schoolName": "北京科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JNU-1002000006",
+    "name": "华文教学的理念与方法",
+    "teacherName": "郭熙",
+    "enrollCount": 1426,
+    "schoolName": "暨南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/GJGX-1002695012",
+    "name": "《理智与情感》的生活智慧——英国文学名著多维导读",
+    "teacherName": "梁晓晖",
+    "enrollCount": 2971,
+    "schoolName": "国际关系学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-169001",
+    "name": "大学英文写作（二）",
+    "teacherName": "李慧辉",
+    "enrollCount": 11217,
+    "schoolName": "国防科技大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NJU-1001967032",
+    "name": "中国文化与当代中国",
+    "teacherName": "程爱民",
+    "enrollCount": 5471,
+    "schoolName": "南京大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HEBUT-1205841810",
+    "name": "学术英语读写与交流",
+    "teacherName": "张尚莲",
+    "enrollCount": 3218,
+    "schoolName": "河北工业大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECNU-1205965804",
+    "name": "德语国家社会与文化",
+    "teacherName": "杨建培",
+    "enrollCount": 7919,
+    "schoolName": "华东师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/SHISU-1449268162",
+    "name": "英美长篇小说赏析",
+    "teacherName": "许立冰",
+    "enrollCount": 32504,
+    "schoolName": "上海外国语大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/MUC-1207538807",
+    "name": "跟我学哈萨克语",
+    "teacherName": "阿依努·艾比西",
+    "enrollCount": 2731,
+    "schoolName": "中央民族大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BISU-1207423806",
+    "name": "日本文学史（近代部分）",
+    "teacherName": "张文颖",
+    "enrollCount": 6584,
+    "schoolName": "北京第二外国语学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/JLU-1002082006",
+    "name": "私法英语表达",
+    "teacherName": "秦晓雷",
+    "enrollCount": 6458,
+    "schoolName": "吉林大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NCU-1206683814",
+    "name": "英美概况",
+    "teacherName": "黄剑",
+    "enrollCount": 7661,
+    "schoolName": "南昌大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/OUC-1206619849",
+    "name": "德语语言学导论",
+    "teacherName": "王京平",
+    "enrollCount": 2862,
+    "schoolName": "中国海洋大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECNU-1206626832",
+    "name": "学术英语交流视听说",
+    "teacherName": "李征",
+    "enrollCount": 27768,
+    "schoolName": "华东师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/sues-1002554006",
+    "name": "法国社会和文化",
+    "teacherName": "徐静",
+    "enrollCount": 5685,
+    "schoolName": "上海工程技术大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BLCU-1002732013",
+    "name": "商务汉语（中国商务概览）",
+    "teacherName": "朱世芳",
+    "enrollCount": 2442,
+    "schoolName": "北京语言大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BISU-1206024806",
+    "name": "英语学术写作",
+    "teacherName": "李芳",
+    "enrollCount": 8909,
+    "schoolName": "北京第二外国语学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BISU-1206027802",
+    "name": "基础俄语II",
+    "teacherName": "刘淼",
+    "enrollCount": 16684,
+    "schoolName": "北京第二外国语学院"
+  },
+  {
+    "url": "https://www.icourse163.org/course/ECNU-1205960803",
+    "name": "澳大利亚纵横",
+    "teacherName": "陈弘",
+    "enrollCount": 3443,
+    "schoolName": "华东师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/HUNNU-1003402011",
+    "name": "英语文学导论",
+    "teacherName": "曾艳钰",
+    "enrollCount": 9072,
+    "schoolName": "湖南师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/CSU-1001964011",
+    "name": "大学英语——交互英语（一）",
+    "teacherName": "侯先绒",
+    "enrollCount": 15608,
+    "schoolName": "中南大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/BNU-1002576002",
+    "name": "魅力语言学",
+    "teacherName": "程晓堂",
+    "enrollCount": 11743,
+    "schoolName": "北京师范大学"
+  },
+  {
+    "url": "https://www.icourse163.org/course/NUDT-17005",
+    "name": "大学英文写作",
+    "teacherName": "李慧辉",
+    "enrollCount": 27980,
+    "schoolName": "国防科技大学"
+  }
+]
